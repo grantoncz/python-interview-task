@@ -86,5 +86,3 @@ Demonstrujte základní dovednosti Gitu a GitHubu.
 - Správné použití Gitu pro vytváření větví a commitování změn.
 - Úspěšné podání pull requestu.
 - Porozumění konceptům správy verzí.
-
-Toto zadání by mělo poskytnout komplexní přehled o technických dovednostech kandidáta, jeho schopnosti práce v týmu a zvládání moderních vývojových nástrojů.
