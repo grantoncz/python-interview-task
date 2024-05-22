@@ -3,4 +3,4 @@ openai
 config
 typing
 httpx
-dotenv
+python-dotenv
