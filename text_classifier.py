@@ -19,7 +19,7 @@ GPT_Model = "gpt-4o"
 # ---------- Functions ----------
 
 
-def classify_text(text: str, categories: List[str]):
+def classify_text(text: str, categories: List[str]) -> str:
     """
     Find a single word from the string of possible catagories that describes the content of the text
     :param categories: List[str], contains the possible categories
