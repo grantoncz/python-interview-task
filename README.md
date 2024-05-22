@@ -1,5 +1,7 @@
 # Text Classifier
 
+A text classifying application
+
 ## Parameters
 - text: string containing the text to classify
 - classes: list of  strings containing the categories to choose between
