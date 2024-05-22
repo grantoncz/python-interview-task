@@ -89,7 +89,7 @@ def classify():
 
     category = classify_text(text, classes)
 
-    # ensure nothing went wrong and give feeback to the client
+    # ensure nothing went wrong and give feedback to the client
     if category == "error":
         return jsonify({'error': 'Internal server error'}), 500
 
