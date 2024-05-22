@@ -72,7 +72,7 @@ def classify_text(text: str, categories: List[str]) -> str:
 @app.route('/classify', methods=['POST'])
 def classify():
     """
-    Route that takes in a json object with str text and list of classes
+    Route that takes in a json object with str text and list of classes.
     :return: which of the classes the text can be classified as, or "unknown"
     """
     data = request.get_json()
